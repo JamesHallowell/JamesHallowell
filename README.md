@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🛠️ I'm currently a software developer at [Focusrite](https://focusriteplc.com/), working on internal libraries and tooling
+- 🔊 I'm interested in audio, networking, and systems programming
+
 <!--
 **JamesHallowell/JamesHallowell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
